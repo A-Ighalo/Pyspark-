@@ -1,6 +1,6 @@
 # Practice Notebooks for the Fundamentals of PySpark 
 
-## Topics included are:
+## Topics:
     a. Loading data into DataFrames
     b. Filtering, aggregating, and saving data
     c. Querying and modifying DataFrames with SQL
