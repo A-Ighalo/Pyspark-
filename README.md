@@ -5,4 +5,4 @@
     b. Filtering, aggregating, and saving data
     c. Querying and modifying DataFrames with SQL
     d. Exploratory data analysis
-    e. Basic machine learning. Linear Regression, Custering and TimeSeries Analysis
+    e. Basic machine learning. Linear Regression, Clustering and TimeSeries Analysis
