@@ -1,4 +1,4 @@
-# These notebooks are practice exercises to understand the fundamentals of PySpark 
+# Practice Notebooks for the Fundamentals of PySpark 
 
 ## Topics included are:
     a. Loading data into DataFrames
