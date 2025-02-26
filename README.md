@@ -6,3 +6,5 @@
     c. Querying and modifying DataFrames with SQL
     d. Exploratory data analysis
     e. Basic machine learning. Linear Regression, Clustering and TimeSeries Analysis
+
+
